@@ -13,4 +13,4 @@ function Child() {
   );
 }
 
-export default Child;
+export default Child2;
