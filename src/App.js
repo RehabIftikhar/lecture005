@@ -7,7 +7,7 @@ import valueContext from './valueContext';
 
 function App() {
   //let [number, setNumber]= useState(45);
-  let value= useState(980)
+  let value= useState(98)
   
   return (
     <valueContext.Provider value={value}>
