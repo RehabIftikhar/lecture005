@@ -1,5 +1,6 @@
 import React from 'react';
 import Child from './child'
+import Child2 from './Child2'
 
 
 function Parent(props) {

@@ -8,7 +8,7 @@ import valueContext from './valueContext';
 function App() {
   //let [number, setNumber]= useState(45);
   let value= useState(98)
-  let number= useReducer()
+  
   return (
     <valueContext.Provider value={value}>
       <div>
